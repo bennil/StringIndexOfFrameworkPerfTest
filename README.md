@@ -18,4 +18,4 @@ Intel Core i7-8650U CPU 1.90GHz (Kaby Lake R), 1 CPU, 8 logical and 4 physical c
 | IndexOfOfNotContainingStringInLargeString | .NET Framework 4.7.2 | .NET Framework 4.7.2 |  1.578 ms | 0.0098 ms | 0.0087 ms |  1.00 |    0.00 |
 
 
-See issue x
+[See issue 96221](https://github.com/dotnet/runtime/issues/96221)
